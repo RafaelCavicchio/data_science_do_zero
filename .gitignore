@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+    __pycache__/
+    *.pyc
+    *.pyd
+    *.pyo
+
+    # C extensions
+    *.so
+
+    # Distribution / packaging
+    .Python
+    env/
+    venv/
+    build/
+    develop-eggs/
+    dist/
+    *.egg-info/
+    .eggs/
+    parts/
+    sdist/
+    var/
+    *.mo
+    *.pot
+    *.log
+    local/
+    lib/
+    include/
+    bin/
+
+    # Editors
+    .vscode/
+    .idea/
+    *.sublime-workspace
+    *.komodoproject
+
+    # OS generated files
+    .DS_Store
+    .Trashes
+    Thumbs.db
+
+    # Virtual environment
+    .env
