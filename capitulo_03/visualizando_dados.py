@@ -72,4 +72,4 @@ def grafico_dispersao():
     plt.ylabel("minutos diários passados no site")
     plt.show()
 
-grafico_dispersao()
+grafico_barras()
